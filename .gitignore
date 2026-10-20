@@ -1,0 +1,11 @@
+# Microsoft binary: download from Microsoft, do not redistribute
+LGPO.exe
+
+# Generated reports (contain serial numbers / host names)
+PC info/*.txt
+GroupPolicyAutomation-*.txt
+
+# Misc
+Thumbs.db
+*.log
+*.bak
